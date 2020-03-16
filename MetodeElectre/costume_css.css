@@ -1,0 +1,10 @@
+input{
+ width:120px;
+ position: absolute;
+ left: 150px;
+}
+
+input#uploadFile{
+width:200px;
+
+}
